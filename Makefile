@@ -33,11 +33,11 @@ OBJECTS = $(SOURCES:.cpp=.o)
 #============================================================================================================================#
 
 # Make for OSX testing
-#Apple:
-#	$(COMPILER) -c $(COMPILE_FLAGS) $(SOURCES)
-#	-mkdir objectfiles 
-#	-mv *.o objectfiles/ 
-#	$(COMPILER) objectfiles/*.o $(LIBS_OSX) -o $(EXEC)
+Apple:
+	$(COMPILER) -c $(COMPILE_FLAGS) $(SOURCES)
+	-mkdir objectfiles 
+	-mv *.o objectfiles/ 
+	$(COMPILER) objectfiles/*.o $(LIBS_OSX) -o $(EXEC)
 
 # Make for linux
 $(EXEC): 

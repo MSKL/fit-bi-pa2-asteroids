@@ -16,12 +16,12 @@ COMPILER = g++
 # Declare the compile flags
 COMPILE_FLAGS = -Wall -pedantic -Wno-long-long -O0 -ggdb -g -std=c++11
 
-# Linker flags are different on osx
-LIBS_OSX = -I/Library/Frameworks/SDL2.framework/Headers -framework SDL2
+# Linker flags are different on osx /Headers
+LIBS_OSX = -I/Library/Frameworks/SDL2.framework/ -framework SDL2
 LIBS_LINUX = -lSDL2
 
 # Output executable name
-EXEC = ./skalimat
+EXEC = ./asteroids
 
 #============================================================================================================================#
 

@@ -18,7 +18,7 @@ This game expects 2 files:
 - `examples/highscores.txt` which contains high scores 
 
 ## Documentation
-Run `make doc` to generate the doxygene documentation. The documentation is generated into the `doc` folder.
+Run `make doc` to generate the doxygene documentation. The documentation is generated into the `doc` folder. View the /doc/index.html file to see the generated documentation.
 
 ## How to compile
 This project relies on the SDL2 framework that must be installed.

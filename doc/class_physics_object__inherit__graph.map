@@ -1,0 +1,8 @@
+<map id="PhysicsObject" name="PhysicsObject">
+<area shape="rect" id="node5" href="$class_asteroid.html" title="Asteroid" alt="" coords="5,299,76,324"/>
+<area shape="rect" id="node6" href="$class_player.html" title="Player" alt="" coords="100,299,159,324"/>
+<area shape="rect" id="node7" href="$class_shot.html" title="Shot" alt="" coords="183,299,232,324"/>
+<area shape="rect" id="node2" href="$class_collidable_object.html" title="CollidableObject" alt="" coords="71,152,189,177"/>
+<area shape="rect" id="node3" href="$class_graphics_object.html" title="GraphicsObject" alt="" coords="73,79,186,104"/>
+<area shape="rect" id="node4" href="$class_game_object.html" title="GameObject" alt="" coords="82,5,178,31"/>
+</map>

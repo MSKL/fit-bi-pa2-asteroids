@@ -1,9 +1,0 @@
-<map id="SuperManager" name="SuperManager">
-<area shape="rect" id="node2" href="$class_timer_manager.html" title="TimerManager" alt="" coords="5,92,113,117"/>
-<area shape="rect" id="node3" href="$class_game_object.html" title="GameObject" alt="" coords="136,92,233,117"/>
-<area shape="rect" id="node4" href="$class_rotation.html" title="Rotation" alt="" coords="97,5,168,31"/>
-<area shape="rect" id="node5" href="$class_d_vector2_d.html" title="DVector2D" alt="" coords="192,5,278,31"/>
-<area shape="rect" id="node6" href="$class_s_d_l_manager.html" title="SDLManager" alt="" coords="257,92,357,117"/>
-<area shape="rect" id="node7" href="$class_input_manager.html" title="InputManager" alt="" coords="381,92,484,117"/>
-<area shape="rect" id="node8" href="$class_render_manager.html" title="RenderManager" alt="" coords="508,92,626,117"/>
-</map>

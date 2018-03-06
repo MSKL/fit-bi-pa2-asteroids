@@ -14,7 +14,7 @@ int main (void) {
 
 /*! \mainpage The classic game reborn
  *
- * \section intro Introduction
+ * \section intro Introduction 
  *
  * This project was created as a semestral project for the PA2 subject at the FIT CTU. (Fakulta Informatiky ČVUT) <br>
  * I have tried to recreate the all time classic "Asteroids" using the SDL2 library. <br>

@@ -1,7 +1,0 @@
-<map id="Upgrade" name="Upgrade">
-<area shape="rect" id="node2" href="$class_collidable_object.html" title="CollidableObject" alt="" coords="32,241,151,267"/>
-<area shape="rect" id="node3" href="$class_graphics_object.html" title="GraphicsObject" alt="" coords="35,167,148,192"/>
-<area shape="rect" id="node4" href="$class_game_object.html" title="GameObject" alt="" coords="43,92,140,117"/>
-<area shape="rect" id="node5" href="$class_rotation.html" title="Rotation" alt="" coords="5,5,76,31"/>
-<area shape="rect" id="node6" href="$class_d_vector2_d.html" title="DVector2D" alt="" coords="101,5,186,31"/>
-</map>
